@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W001.1.1T01_Hello_World", "W001.1.1T01_Hello_World\W001.1.1T01_Hello_World.csproj", "{F527699F-C3DC-475E-8060-D7F5293DA1D4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W001.1.1T01_User_Name", "W001.1.1T01_User_Name\W001.1.1T01_User_Name.csproj", "{562D0149-AB57-419A-B35D-A68DA444C052}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W001.1.1T02", "W001.1.1T02\W001.1.1T02.csproj", "{0E829447-1FCF-4469-AD2F-B0E955B4DD79}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W001.1.1T03", "W001.1.1T03\W001.1.1T03.csproj", "{C5021B2C-7E25-4F53-B12E-86F7E3D57F6D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F527699F-C3DC-475E-8060-D7F5293DA1D4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F527699F-C3DC-475E-8060-D7F5293DA1D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F527699F-C3DC-475E-8060-D7F5293DA1D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F527699F-C3DC-475E-8060-D7F5293DA1D4}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9991FB06-A2F5-434B-B254-7371773AE763}
+	EndGlobalSection
+EndGlobal
