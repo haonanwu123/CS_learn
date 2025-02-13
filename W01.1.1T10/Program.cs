@@ -34,6 +34,8 @@
         string userName = emailComponents[0];
         string domainName = emailComponents[1];
         string topLevelDomain = domainName.Substring(domainName.LastIndexOf('.') + 1); // Take the part of the email address after the .
+        // string[] parts = domainName.Split('.');
+        // string topLevelDomain = parts.Last();
 
         Console.WriteLine();
         Console.WriteLine($"User name: {userName}");
