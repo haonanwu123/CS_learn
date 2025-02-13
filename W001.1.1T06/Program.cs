@@ -1,6 +1,4 @@
-﻿using System.Net.WebSockets;
-
-static class Program
+﻿static class Program
 {
     static void Main()
     {
