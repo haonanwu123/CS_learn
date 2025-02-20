@@ -55,6 +55,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W01.2.1T08", "W01.2.1T08\W0
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W01.2.1T09", "W01.2.1T09\W01.2.1T09.csproj", "{5876C13B-B56A-4676-9B70-41FD1B4BA06F}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W01.2.1T10", "W01.2.1T10\W01.2.1T10.csproj", "{F36FCBB7-3FC7-4D8E-BD54-8FD13308880C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
