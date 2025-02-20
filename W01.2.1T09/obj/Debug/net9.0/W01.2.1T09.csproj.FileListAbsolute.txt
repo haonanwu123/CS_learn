@@ -1,0 +1,15 @@
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/bin/Debug/net9.0/W01.2.1T09
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/bin/Debug/net9.0/W01.2.1T09.deps.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/bin/Debug/net9.0/W01.2.1T09.runtimeconfig.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/bin/Debug/net9.0/W01.2.1T09.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/bin/Debug/net9.0/W01.2.1T09.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.AssemblyInfoInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.AssemblyInfo.cs
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.csproj.CoreCompileInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.sourcelink.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/refint/W01.2.1T09.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/W01.2.1T09.genruntimeconfig.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W01.2.1T09/obj/Debug/net9.0/ref/W01.2.1T09.dll
