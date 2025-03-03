@@ -1,0 +1,15 @@
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/bin/Debug/net9.0/W02.2.1T02
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/bin/Debug/net9.0/W02.2.1T02.deps.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/bin/Debug/net9.0/W02.2.1T02.runtimeconfig.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/bin/Debug/net9.0/W02.2.1T02.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/bin/Debug/net9.0/W02.2.1T02.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.AssemblyInfoInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.AssemblyInfo.cs
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.csproj.CoreCompileInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.sourcelink.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/refint/W02.2.1T02.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/W02.2.1T02.genruntimeconfig.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W02.2.1T02/obj/Debug/net9.0/ref/W02.2.1T02.dll
