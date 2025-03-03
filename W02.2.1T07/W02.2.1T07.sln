@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "W02.2.1T07", "W02.2.1T07.csproj", "{3C3B96DF-0E1D-48FE-8BCD-AE2412EA8492}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C3B96DF-0E1D-48FE-8BCD-AE2412EA8492}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C3B96DF-0E1D-48FE-8BCD-AE2412EA8492}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C3B96DF-0E1D-48FE-8BCD-AE2412EA8492}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C3B96DF-0E1D-48FE-8BCD-AE2412EA8492}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BAE5E56-E2D7-4E0A-95BD-F957A65B9123}
+	EndGlobalSection
+EndGlobal
