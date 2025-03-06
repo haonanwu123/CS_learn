@@ -1,0 +1,12 @@
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/bin/Debug/net9.0/RollTheDice.deps.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/bin/Debug/net9.0/RollTheDice.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/bin/Debug/net9.0/RollTheDice.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/RollTheDice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/RollTheDice.AssemblyInfoInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/RollTheDice.AssemblyInfo.cs
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/RollTheDice.csproj.CoreCompileInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/RollTheDice.sourcelink.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/RollTheDice.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/refint/RollTheDice.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/RollTheDice.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W03.2.1T01/RollTheDice/obj/Debug/net9.0/ref/RollTheDice.dll
