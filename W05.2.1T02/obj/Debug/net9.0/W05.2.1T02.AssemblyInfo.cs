@@ -10,12 +10,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("W05.2.1T01")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("W05.2.1T02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+573708b63697014210921b99cda66f49dc95b299")]
-[assembly: System.Reflection.AssemblyProductAttribute("W05.2.1T01")]
-[assembly: System.Reflection.AssemblyTitleAttribute("W05.2.1T01")]
+[assembly: System.Reflection.AssemblyProductAttribute("W05.2.1T02")]
+[assembly: System.Reflection.AssemblyTitleAttribute("W05.2.1T02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // 由 MSBuild WriteCodeFragment 类生成。

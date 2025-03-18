@@ -30,6 +30,7 @@ public class BankAccount
         if (SufficientBalance(amount))
         {
             _balance -= amount;
+            return amount;
         }
         return 0;
     }
