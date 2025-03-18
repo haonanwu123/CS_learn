@@ -11,6 +11,8 @@ class Cuboid : Rectangle
 
     public override int Area() => 2 * (Length * Width + Length * Height + Width * Height);
 
+    public override int Perimeter() => 2 * base.Perimeter() + 4 * Height;
+
     public override string Info() => base.Info() + $"; Height: {Height}";
 
 }
