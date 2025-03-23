@@ -9,16 +9,11 @@ public class Ninja : Fighter
         _lastAttackDistance = distance;
     }
 
-    public override int Attack()
-    {
-        return Attack(_lastAttackDistance);
-    }
-
     public int Attack(int distance)
     {
         if (MainWeapon == null) return 0;
 
-        if (distance > AttackRange)
+        if (distance > _lastAttackDistance)
         {
             int damage = base.Attack() * 4;
             EquipMainWeapon(null!);
@@ -26,4 +21,6 @@ public class Ninja : Fighter
         }
         return base.Attack();
     }
+
+    public override int AttackRange => 5;
 }

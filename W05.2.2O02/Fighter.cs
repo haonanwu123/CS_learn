@@ -8,7 +8,7 @@ public class Fighter
         protected set => _hp = value >= 0 ? value : 0;
     }
     public bool IsAlive { get => HP > 0; }
-    public virtual int AttackRange { get; } = 1;
+    public virtual int AttackRange { get; set; } = 1;
     public int BaseAttack { get; } = 5;
     public Weapon MainWeapon { get; protected set; }
 
