@@ -1,0 +1,12 @@
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/bin/Debug/net9.0/FactoryPattern.deps.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/bin/Debug/net9.0/FactoryPattern.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/bin/Debug/net9.0/FactoryPattern.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/FactoryPattern.GeneratedMSBuildEditorConfig.editorconfig
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/FactoryPattern.AssemblyInfoInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/FactoryPattern.AssemblyInfo.cs
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/FactoryPattern.csproj.CoreCompileInputs.cache
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/FactoryPattern.sourcelink.json
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/FactoryPattern.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/refint/FactoryPattern.dll
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/FactoryPattern.pdb
+/Users/haonanwu/Documents/GitHub/CS_learn/W07.1.2O01/FactoryPatternSolution/FactoryPattern/obj/Debug/net9.0/ref/FactoryPattern.dll
